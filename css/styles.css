@@ -61,9 +61,7 @@ body {
     background-color: var(--primary-fon-color);
 }
 
-/* body.modal-open {
-    overflow: hidden;
-} */
+
 
 .visually-hidden {
     position: absolute;
